@@ -1,2 +1,2 @@
 # Raining-Blood
-WIP - [Unity / C#] -  2D grid-based horror dungeon crawler, for mobile platforms 
+WIP - [Unity / C#] -  2D platformer, for desktop and mobile platforms 
